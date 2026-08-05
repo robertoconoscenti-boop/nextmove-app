@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "NextMove — Smart Task Prioritizer",
+  "short_name": "NextMove",
+  "description": "Scegli il prossimo task in base a importanza, urgenza, tempo ed energia.",
+  "lang": "it-IT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f4ff",
+  "theme_color": "#7658ff",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
